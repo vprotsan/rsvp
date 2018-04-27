@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './App.css';
 
 const GuestInputForm = props =>
     <form onSubmit={props.newGuestSubmitHandler}>
